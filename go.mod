@@ -1,4 +1,4 @@
-module github.com/openpubkey/opkssh
+module github.com/Joby-Security/opkssh
 
 go 1.23.7
 

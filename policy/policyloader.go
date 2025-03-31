@@ -22,7 +22,7 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/openpubkey/opkssh/policy/files"
+	"github.com/Joby-Security/opkssh/policy/files"
 	"github.com/spf13/afero"
 	"golang.org/x/exp/slices"
 )

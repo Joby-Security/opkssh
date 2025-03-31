@@ -24,8 +24,8 @@ import (
 	"time"
 
 	"github.com/lestrrat-go/jwx/v2/jwk"
-	"github.com/openpubkey/openpubkey/pktoken"
-	"github.com/openpubkey/openpubkey/verifier"
+	"github.com/Joby-Security/openpubkey/pktoken"
+	"github.com/Joby-Security/openpubkey/verifier"
 	"golang.org/x/crypto/ssh"
 )
 

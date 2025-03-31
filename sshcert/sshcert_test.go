@@ -25,9 +25,9 @@ import (
 	"testing"
 
 	"github.com/lestrrat-go/jwx/v2/jwk"
-	"github.com/openpubkey/openpubkey/client"
-	"github.com/openpubkey/openpubkey/pktoken"
-	"github.com/openpubkey/openpubkey/providers"
+	"github.com/Joby-Security/openpubkey/client"
+	"github.com/Joby-Security/openpubkey/pktoken"
+	"github.com/Joby-Security/openpubkey/providers"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/crypto/ssh"
 )

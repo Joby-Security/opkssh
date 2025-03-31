@@ -28,10 +28,10 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/openpubkey/openpubkey/providers"
-	"github.com/openpubkey/opkssh/commands"
-	"github.com/openpubkey/opkssh/policy"
-	"github.com/openpubkey/opkssh/policy/files"
+	"github.com/Joby-Security/openpubkey/providers"
+	"github.com/Joby-Security/opkssh/commands"
+	"github.com/Joby-Security/opkssh/policy"
+	"github.com/Joby-Security/opkssh/policy/files"
 	"github.com/spf13/cobra"
 )
 

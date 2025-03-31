@@ -25,9 +25,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/openpubkey/opkssh/policy"
-	"github.com/openpubkey/opkssh/policy/files"
-	"github.com/openpubkey/opkssh/test/integration/ssh_server"
+	"github.com/Joby-Security/opkssh/policy"
+	"github.com/Joby-Security/opkssh/policy/files"
+	"github.com/Joby-Security/opkssh/test/integration/ssh_server"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/testcontainers/testcontainers-go"

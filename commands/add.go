@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/openpubkey/opkssh/policy"
+	"github.com/Joby-Security/opkssh/policy"
 )
 
 // AddCmd provides functionality to read and update the opkssh policy file

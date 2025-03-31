@@ -21,7 +21,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/openpubkey/opkssh/policy/files"
+	"github.com/Joby-Security/opkssh/policy/files"
 )
 
 // User is an opkssh policy user entry

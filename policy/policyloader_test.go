@@ -23,8 +23,8 @@ import (
 	"path"
 	"testing"
 
-	"github.com/openpubkey/opkssh/policy"
-	"github.com/openpubkey/opkssh/policy/files"
+	"github.com/Joby-Security/opkssh/policy"
+	"github.com/Joby-Security/opkssh/policy/files"
 	"github.com/spf13/afero"
 	"github.com/stretchr/testify/require"
 )

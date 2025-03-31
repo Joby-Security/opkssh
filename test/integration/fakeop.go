@@ -33,8 +33,8 @@ import (
 	"log/slog"
 
 	"github.com/jeremija/gosubmit"
-	"github.com/openpubkey/openpubkey/client"
-	"github.com/openpubkey/openpubkey/providers"
+	"github.com/Joby-Security/openpubkey/client"
+	"github.com/Joby-Security/openpubkey/providers"
 	"github.com/stretchr/testify/require"
 	"github.com/zitadel/oidc/v3/example/server/exampleop"
 	"github.com/zitadel/oidc/v3/example/server/storage"

@@ -19,7 +19,7 @@ package policy_test
 import (
 	"testing"
 
-	"github.com/openpubkey/opkssh/policy"
+	"github.com/Joby-Security/opkssh/policy"
 	"github.com/stretchr/testify/assert"
 )
 

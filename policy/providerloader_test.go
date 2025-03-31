@@ -22,7 +22,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/openpubkey/openpubkey/verifier"
+	"github.com/Joby-Security/openpubkey/verifier"
 	"github.com/stretchr/testify/require"
 )
 

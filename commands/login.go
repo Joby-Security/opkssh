@@ -33,13 +33,13 @@ import (
 
 	"github.com/lestrrat-go/jwx/v2/jwa"
 	"github.com/lestrrat-go/jwx/v2/jws"
-	"github.com/openpubkey/openpubkey/client"
-	"github.com/openpubkey/openpubkey/client/choosers"
-	"github.com/openpubkey/openpubkey/oidc"
-	"github.com/openpubkey/openpubkey/pktoken"
-	"github.com/openpubkey/openpubkey/providers"
-	"github.com/openpubkey/openpubkey/util"
-	"github.com/openpubkey/opkssh/sshcert"
+	"github.com/Joby-Security/openpubkey/client"
+	"github.com/Joby-Security/openpubkey/client/choosers"
+	"github.com/Joby-Security/openpubkey/oidc"
+	"github.com/Joby-Security/openpubkey/pktoken"
+	"github.com/Joby-Security/openpubkey/providers"
+	"github.com/Joby-Security/openpubkey/util"
+	"github.com/Joby-Security/opkssh/sshcert"
 	"golang.org/x/crypto/ssh"
 )
 

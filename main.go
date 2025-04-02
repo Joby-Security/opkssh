@@ -39,10 +39,10 @@ var (
 	// These can be overridden at build time using ldflags. For example:
 	// go build -v -o /usr/local/bin/opkssh -ldflags "-X main.issuer=http://oidc.local:${ISSUER_PORT}/ -X main.clientID=web -X main.clientSecret=secret"
 	Version           = "unversioned"
-	issuer            = ""
-	clientID          = ""
+	issuer            = "https://login.microsoftonline.com/950193e8-822e-4a0a-8af4-4a725633f0a8/v2.0"
+	clientID          = "56845625-122e-4a50-b8b5-a3a504c1c47e"
 	clientSecret      = ""
-	redirectURIs      = ""
+	redirectURIs      = "http://localhost:3000/login-callback"
 	logFilePathServer = "/var/log/opkssh.log" // Remember if you change this, change it in the install script as well
 )
 

@@ -3,11 +3,11 @@ module github.com/Joby-Security/opkssh
 go 1.23.7
 
 require (
+	github.com/Joby-Security/openpubkey v0.8.7
 	github.com/docker/go-connections v0.5.0
 	github.com/jeremija/gosubmit v0.2.7
 	github.com/lestrrat-go/jwx/v2 v2.0.21
 	github.com/melbahja/goph v1.4.0
-	github.com/Joby-Security/openpubkey v0.8.1
 	github.com/spf13/cobra v1.9.1
 	github.com/stretchr/testify v1.10.0
 	github.com/testcontainers/testcontainers-go v0.35.0
@@ -19,8 +19,6 @@ require (
 	dario.cat/mergo v1.0.0 // indirect
 	filippo.io/bigmod v0.0.3 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
-	github.com/Joby-Security/openpubkey v0.8.1 // indirect
-	github.com/Joby-Security/opkssh v0.8.0 // indirect
 	github.com/Microsoft/go-winio v0.6.2 // indirect
 	github.com/awnumar/memcall v0.1.2 // indirect
 	github.com/awnumar/memguard v0.22.3 // indirect
@@ -57,6 +55,7 @@ require (
 	github.com/muhlemmer/httpforwarded v0.1.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.1.0 // indirect
+	github.com/openpubkey/openpubkey v0.8.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pkg/sftp v1.13.7 // indirect
 	github.com/power-devops/perfstat v0.0.0-20210106213030-5aafc221ea8c // indirect

@@ -16,7 +16,7 @@ echo "Detected OS is $OS_TYPE"
 # Define variables
 INSTALL_DIR="/usr/local/bin"
 BINARY_NAME="opkssh"
-GITHUB_REPO="openpubkey/opkssh"
+GITHUB_REPO="Joby-Security/opkssh"
 
 # Define the default OpenID Providers
 PROVIDER_GOOGLE="https://accounts.google.com 206584157355-7cbe4s640tvm7naoludob4ut1emii7sf.apps.googleusercontent.com 24h"
